@@ -1,10 +1,7 @@
-# Java-Dating-Sim-TeamProject
-Java Swing 기반의 연애 시뮬레이션 게임 프로젝트. MVC 패턴 설계, 멀티스레딩 렌더링, 직렬화(Serialization) 저장 시스템을 구현했습니다.
-
 # 그녀를 '자바'라 (Catch Her / Java)
 
 ### 프로젝트 소개 (Introduction)
-**"자바(Java)로 만든, 그녀를 사로잡는(자바라) 게임"**
+Java Swing 기반의 연애 시뮬레이션 게임 프로젝트. MVC 패턴 설계, 멀티스레딩 렌더링, 직렬화(Serialization) 저장 시스템을 구현했습니다.
 
 대학 캠퍼스를 배경으로 한 **비주얼 노벨 형식의 연애 시뮬레이션 게임**입니다.
 단순한 텍스트 출력을 넘어, `Java Swing`을 활용하여 직관적인 GUI와 인터랙티브한 요소를 구현했습니다.
